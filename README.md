@@ -1,3 +1,8 @@
+# Deprecated
+Preference is to use a purer Nix approach (really doing the same thing under the hood, but avoiding a need to call this github repo)
+
+Probably written this same config over to [here](https://github.com/JayRovacsek/dotfiles/blob/master/nixos/users/jay/configs/firefox.nix)
+
 ### 🟪  user.js
 A `user.js` is a configuration file that can control hundreds of Firefox settings. For a more technical breakdown and explanation, you can read more on the [overview](https://github.com/arkenfox/user.js/wiki/1.1-Overview) wiki page.
 
